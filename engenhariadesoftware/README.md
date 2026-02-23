@@ -28,17 +28,17 @@ ao longo do tempo e não apenas a produção imediata do código.
 3 - Listar e explicar 3 exemplos de tradeoffs
 
     1. Qualidade do código x Velocidade de desenvolvimento - Um dos trade-offs mais comuns em engenharia de software ocorre entre a qualidade do código e
-a velocidade do desenvolvimento. Optar por entregar uma funcionalidade rapidamente pode levar a escrita de código menos organizado ou com menor cobertura
-de testes. Por outro lado, investir mais tempo em boas práticas, como testes automatizados e refatoração, pode atrasar a entrega inicial mas resulta em um
-software mais confiável e de fácil manutenção a longo prazo.
+    a velocidade do desenvolvimento. Optar por entregar uma funcionalidade rapidamente pode levar a escrita de código menos organizado ou com menor cobertura
+    de testes. Por outro lado, investir mais tempo em boas práticas, como testes automatizados e refatoração, pode atrasar a entrega inicial mas resulta em um
+    software mais confiável e de fácil manutenção a longo prazo.
 
     2. Flexibilidade x Simplicidade - Buscar alta flexibilidade no software, como permitir múltiplas configurações e extensões, pode tornar o sistema mais
-complexo e difícil de entender. Por outro lado, soluções mais simples tendem a ser mais fáceis de manter e compreender, porém podem limitar futuras adaptações.
-Esse trade-off exige equilíbrio, considerando o contexto do projeto e a probabilidade de mudanças futuras.
+    complexo e difícil de entender. Por outro lado, soluções mais simples tendem a ser mais fáceis de manter e compreender, porém podem limitar futuras adaptações.
+    Esse trade-off exige equilíbrio, considerando o contexto do projeto e a probabilidade de mudanças futuras.
 
     3. Escalabilidade x Custo - Projetar um sistema altamente escalável desde o início pode gerar custos elevados, tanto em infraestrutura quanto em tempo de
-desenvolvimento. Por outro lado, optar por uma solução mais simples e econômica pode atender as necessidades iniciais, mas exigir grandes mudanças caso o sistema
-cresça rapidamente. Assim, as decisões devem considerar o estágio do projeto e crescimento esperado da aplicação.
+    desenvolvimento. Por outro lado, optar por uma solução mais simples e econômica pode atender as necessidades iniciais, mas exigir grandes mudanças caso o sistema
+    cresça rapidamente. Assim, as decisões devem considerar o estágio do projeto e crescimento esperado da aplicação.
 
 
 4 - Software é intangível
