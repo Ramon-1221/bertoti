@@ -110,7 +110,7 @@ ser sustentável, adaptável e bem gerenciado durante todo o seu ciclo de vida e
 
 8 - É possível testar tudo?
     
-    Na minha visão, não é possível testar tudo dentro da engenharia de software, e isso acontece principalmente por conta da quantidade praticamente infinita de cenários
+  Na minha visão, não é possível testar tudo dentro da engenharia de software, e isso acontece principalmente por conta da quantidade praticamente infinita de cenários
 que um sistema pode ter. Mesmo que a gente tente cobrir o máximo possível, sempre vão existir combinações de entradas, situações de uso ou até comportamentos inesperados
 que acabam não sendo testados. Além disso, também tem a questão de tempo e custo. Em um projeto real, não dá pra testar absolutamente tudo porque isso exigiria muito recurso,
 tanto de tempo quanto de dinheiro, o que acaba sendo inviável. Por isso, normalmente o foco é testar as partes mais críticas do sistema, aquelas que têm maior impacto
@@ -118,6 +118,9 @@ ou mais chance de dar erro. Outro ponto é que o próprio software pode mudar co
 antes, não garante que vai continuar funcionando perfeitamente depois.Então, no geral, o que eu entendo é que testar tudo não é possível na prática. O mais importante é ter uma
 boa estratégia de testes, priorizando qualidade e cobrindo os principais cenários, para diminuir ao máximo a chance de falhas, mesmo sabendo que nunca vai existir um sistema
 100% livre de erros.
+
+9 - O exemplo de biblioteca está como Restaurante.
+
 
 
 
